@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "experience": 8,
+    "skills": ["Lean Manufacturing", "Safety", "Leadership"],
+    "scores": {
+      "crisis": 9,
+      "sustainability": 8,
+      "motivation": 10
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "experience": 5,
+    "skills": ["Waste Management", "Sustainability", "Team Leadership"],
+    "scores": {
+      "crisis": 7,
+      "sustainability": 9,
+      "motivation": 8
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sneha Patel",
+    "experience": 6,
+    "skills": ["Process Optimization", "Kaizen", "People Management"],
+    "scores": {
+      "crisis": 8,
+      "sustainability": 8,
+      "motivation": 9
+    }
+  }
+]
