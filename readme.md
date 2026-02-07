@@ -27,3 +27,11 @@ A standalone system to evaluate and rank candidates using database logic, AI pro
 
 # Snapshot of DashBoard
 
+### 🏆 Leaderboard View
+![Leaderboard](frontend/recycling-dashboard/Dashboard/Screenshot 2026-02-07 135427.png)
+
+### 📊 Skill Heatmap
+![Skill Heatmap](frontend/recycling-dashboard/Dashboard/heatmap.png)
+
+### 👤 Candidate Cards
+![Candidate Cards](frontend/recycling-dashboard/Dashboard/candidate-cards.png)
